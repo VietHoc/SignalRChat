@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/viethoc/.dotnet/store/|arch|/|tfm|",
+      "/Users/viethoc/.nuget/packages"
+    ]
+  }
+}
